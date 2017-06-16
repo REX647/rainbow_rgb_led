@@ -14,3 +14,7 @@
 1. Load the _RAINBOW_RGB_LED.ino_ code into the Arduino.
 2. Configure the breadboard to the schematic shown below.
 3. Provide the Arduino with a power source (battery or USB) and enjoy the light show!
+### Notes:
+* If RGB LED does not light up, connect the black jumper wire to _GND_ instead.
+
+![Configuration](https://github.com/REX647/rainbow_rgb_led/blob/master/rgb_config.png?raw=true)
