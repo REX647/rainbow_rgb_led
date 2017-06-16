@@ -16,5 +16,6 @@
 3. Provide the Arduino with a power source (battery or USB) and enjoy the light show!
 ### Notes:
 * If RGB LED does not light up, connect the black jumper wire to _GND_ instead.
+* The _longest pin_ on the RGB LED is the pin that connects to power (or _GND_).
 
 ![Configuration](https://github.com/REX647/rainbow_rgb_led/blob/master/rgb_config.png?raw=true)
